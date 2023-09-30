@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "alakazam"]
+	path = alakazam
+	url = https://bitbucket.org/kleinstein/alakazam
 [submodule "scoper"]
 	path = scoper
 	url = https://bitbucket.org/kleinstein/scoper
